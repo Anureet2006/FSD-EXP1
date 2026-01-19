@@ -1,0 +1,23 @@
+body{
+    background:#eef;
+}
+
+form{
+    width:300px;
+    margin:auto;
+    padding:20px;
+    border:2px solid blue;
+    background:white;
+}
+
+input, button{
+    width:100%;
+    margin:5px 0;
+    padding:5px;
+}
+
+button{
+    background:blue;
+    color:white;
+    border:none;
+}
